@@ -24,6 +24,8 @@ Welcome to the Nashik Kumbh Mela 2027 Website Development project! This open-sou
 
 ### Installation
 
+- TBD
+  
 ## Contributing
 
 We welcome contributions from the community! To contribute:
@@ -38,7 +40,7 @@ Please ensure your code follows our [Code of Conduct](CODE_OF_CONDUCT.md) and [C
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the ___ License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
